@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Viraps
-- 👀 I’m interested in Minecraft 
-- 🌱 I’m currently learning java
-- 📫 How to reach me using discord (viraps55)
+- 👀 I’m interested in Multiple Programming Languages :D
+- 🌱 I’m currently learning c++
+- 📫 How to reach me ? You can Messeage me on discord (viraps55)
 - 😄 Pronouns: he/him
 
 
