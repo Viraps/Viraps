@@ -13,14 +13,14 @@ Welcome to my GitHub! I'm into multiple programming languages and always learnin
 
 ## 📈 GitHub Stats
 
-![Viraps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viraps&show_icons=true&theme=tokyonight&hide_border=true)
+![Viraps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viraps&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraps&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🧠 Currently Learning
 
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-Learning-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-Learning-blue?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
