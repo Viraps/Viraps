@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm into multiple programming languages and always learnin
 
 ## 📈 GitHub Stats
 
-![Viraps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viraps&show_icons=true&theme=tokyonight&hide_border=true)  
+![Viraps's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Viraps&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Viraps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraps&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
