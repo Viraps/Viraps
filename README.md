@@ -1,19 +1,19 @@
 # 👋 Hey, I'm Viraps
 
-Welcome to my GitHub! I'm into multiple programming languages and always learning something new — currently learing c#.
+Welcome to my GitHub! I'm into multiple programming languages and always learning something new — currently learning C#.
 
 ---
 
 ## 🚀 Interests
 
 - 💻 Multiple Programming Languages
-- ⚙️ Java, C#, c++
+- ⚙️ Java, C#, C++
 
 ---
 
 ## 📈 GitHub Stats
 
-![Viraps's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Viraps&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Viraps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Viraps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viraps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraps&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
