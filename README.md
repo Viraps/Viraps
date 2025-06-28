@@ -1,14 +1,13 @@
 # 👋 Hey, I'm Viraps
 
-Welcome to my GitHub! I'm into multiple programming languages and always learning something new — currently diving into C++.
+Welcome to my GitHub! I'm into multiple programming languages and always learning something new — currently learing c#.
 
 ---
 
-## 🚀 Tech Interests
+## 🚀 Interests
 
 - 💻 Multiple Programming Languages
-- ⚙️ C++, Python, JavaScript, HTML/CSS
-- 🎮 Game Dev, Scripts, Automation
+- ⚙️ Java, C#, c++
 
 ---
 
