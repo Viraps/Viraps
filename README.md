@@ -1,14 +1,14 @@
 # 👋 Hey, I'm Viraps
 
-Welcome to my GitHub! I'm into multiple programming languages and always learning something new — currently learning C#.
+Welcome to my GitHub! I'm into multiple programming languages and currently learning c#
 
-Check out my team’s work at 🌐 [moondevs.eu](https://moondevs.eu)
+Check out our websites at 🌐 [moondevs.eu](https://moondevs.eu)
 
 ---
 
 ## 🚀 Interests
 
-- 💻 Multiple Programming Languages
+- 💻 Minecraft modding
 - ⚙️ Java, C#, C++
 
 ---
