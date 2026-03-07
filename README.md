@@ -1,15 +1,12 @@
 # 👋 Hey, I'm Viraps
 
-Welcome to my GitHub! I'm into multiple programming languages and currently learning c#
-
-Check out our websites at 🌐 [moondevs.eu](https://moondevs.eu)
-
+Welcome to my GitHub :3
 ---
 
 ## 🚀 Interests
 
 - 💻 Minecraft modding
-- ⚙️ Java, C#, C++
+- ⚙️ Java, Rust
 
 ---
 
@@ -21,24 +18,17 @@ Check out our websites at 🌐 [moondevs.eu](https://moondevs.eu)
 
 ---
 
-## 🧠 Currently Learning
-
-![C# Badge](https://img.shields.io/badge/C%23-Learning-blue?style=for-the-badge&logo=c-sharp&logoColor=white)
-
----
-
 ## ☕Tools
 
 ![Java](https://img.shields.io/badge/Java-Experienced-red?style=for-the-badge&logo=java&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-Tool-blueviolet?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-Coding-blue?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
 ## 📫 Reach Me
 
 - 💬 Discord: `viraps55`
-- 🌐 Website: [moondevs.eu](https://moondevs.eu)
+- 🌐 Website: [luckperms.lol](https://luckperms.lol/)
 
 ---
 
